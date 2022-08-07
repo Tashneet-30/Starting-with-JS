@@ -36,7 +36,7 @@ null explicitly has nothing in it.
 
 undeefined : kuch ditta hini or (let g  ALONE )
 
-***OBJECTS ***: KEY VALUE PAIRS 
+***OBJECTS***: KEY VALUE PAIRS 
 ```
 const items={
   "harry" : true,
