@@ -1,4 +1,4 @@
-##JAVASCRIPT 
+## JAVASCRIPT 
 - can change type of data at runtime , dynamically typed language 
 **What is Programming**: a way to communicate with computer , telling computer what to do
  ## LET'S GET STARTED :
