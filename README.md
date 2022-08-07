@@ -33,8 +33,10 @@ let y = undefined;
 console.log(typeof(g))
 ```
 null explicitly has nothing in it.
-undeefined : kuch ditta hini or (let g )
-OBJECTS : KEY VALUE PAIRS 
+
+undeefined : kuch ditta hini or (let g  ALONE )
+
+***OBJECTS ***: KEY VALUE PAIRS 
 ```
 const items={
   "harry" : true,
